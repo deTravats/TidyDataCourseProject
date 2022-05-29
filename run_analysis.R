@@ -61,7 +61,7 @@ for(i in 1:6){
 
 ## 8. Appropriately label the data set with descriptive variable names. = STEP 4
 ### 8.a. Look at the names 
-names(Data_with_mean_std)
+## names(Data_with_mean_std)
 
 ### 8.b. Change them
 
