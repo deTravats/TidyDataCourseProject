@@ -6,7 +6,7 @@ This repository has been created as part of my Data Science Course *to demonstra
 ## Description of the repository
 This repository contains :
 1. A README.md file 
-2. A CodeBook.Rmd file, that explains the variables and their units
+2. A CodeBook.md file, that explains the variables and their units
 3. The run_analysis.R script, that shows you each step I used to tidy the data set provided
 4. The Finished_Work.text data table, that I obtained with my run_analysis.R script
 
