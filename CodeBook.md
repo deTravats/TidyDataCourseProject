@@ -6,6 +6,7 @@ This is a Project as part of my Data Science Course on Coursera. I had to tidy t
 ## Code Book 
 
 "Patients" : integer, 1 to 30
+
 "Activity" : character, WALKING/WALKING_UPSTAIRS/WALKING_DOWNSTAIRS/SITTING/STANDING/LAYING
 
 For the "features", here is a copy-paste from the features_info.txt from the dataset, but the names have been modified to meet the criteria of tidy data :
