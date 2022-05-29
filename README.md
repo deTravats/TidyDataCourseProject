@@ -8,7 +8,7 @@ This repository contains :
 1. A README.md file 
 2. A CodeBook.md file, that explains the variables and their units
 3. The run_analysis.R script, that shows you each step I used to tidy the data set provided
-4. The Finished_Work.text data table, that I obtained with my run_analysis.R script
+4. The Finished_Work.txt data table, that I obtained with the STEP 5 of my run_analysis.R script
 
 ## Conclusion
 I hope you'll find your way in this repository and that some of it will make sense.
